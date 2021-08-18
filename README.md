@@ -1,1 +1,1 @@
-# infinte-runner
+# TREX
